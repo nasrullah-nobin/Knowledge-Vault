@@ -95,6 +95,10 @@ header {
     border-radius: 4px;
     background:transparent
 }
+.water-color:hover {
+    border: 1ps solid #ffffff1a;
+    background-color: #e5e7eb47;
+}
 #Notes-Section {
     max-width: 1600px;
     width: 100%;
