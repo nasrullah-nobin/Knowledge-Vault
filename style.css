@@ -166,22 +166,22 @@ header {
     color: #627382;
     margin-bottom: 40px;
 }
-.chekbox {
+.checkbox-list {
     display: flex;
     flex-direction: column;
     gap: 16px;
 }
-.chekbox .item {
+.checkbox-list .item {
     display: flex;
     align-items: center;
     gap: 6px;
 }
-.chekbox .item img {
+.checkbox-list .item img {
     width: 20px;
     height: 20px;
     /* flex-shrink: 0; */
 }
-.chekbox .item p {
+.checkbox-list .item p {
     margin: 0;
 }
 #early-access {
