@@ -127,8 +127,8 @@ header {
 }
 .note-card:hover {
     background-color: rgba(0, 0, 0, 0.123);
-    border: 1px solid ;
-    box-shadow: 0 10px 40px rgba(40, 12, 12, 0.15);
+    border: 1px solid #757575;
+    box-shadow: 0 10px 40px rgba(70, 145, 101, 0.1);
 }
 .note-card img {
     background-color: #F95555;
@@ -175,12 +175,12 @@ header {
     flex-direction: column;
     gap: 16px;
 }
-.checkbox-list .item {
+.item {
     display: flex;
     align-items: center;
     gap: 6px;
 }
-.checkbox-list .item img {
+.item img {
     width: 20px;
     height: 20px;
     /* flex-shrink: 0; */
